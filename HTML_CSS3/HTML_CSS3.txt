@@ -1,0 +1,115 @@
+HISTÓRIA
+- 1969 - Surgimento da internet com nome de Arpanet, utilizado pela Defesa Americana. Primeiro e-mail.
+
+- 1988 - Primeira utilização no Brasil na FAPESP, UFRJ
+- 1994 - Uso comercial
+- 2000 - Banda Larga
+
+TERMOS CHAVE
+download/uploado
+cache - sites deixam coisas previamente em nossos computadores
+crack
+host - 
+html - linguagem de marcação da internet
+http - protocolo criado pela internet
+_________________________________________________
+COMO FUNCIONA A INTERNET
+Backbone - poucos pelo mundo
+Provedor de acesso - Empresas telefonicas, contratam sinal do backbone e repassam para usuario final.
+
+Local host (endereço do computador) - 127.0.0.1
+
+_________________________________________________
+TCP/IP, PORTAS, ROTEADORES, SWITCHES E MODEMS
+
+Tcp/Ip - Protocolos de comunicação entre computadores
+Modelo de camadas - 4 camadas
+	1 - Física (placa de rede)
+	2 - Rede (IP)
+	3 - Transporte (TCP ou UDP)
+	4 - Aplicação (FTP, SMTP - email, HTTP - internet)
+
+TCP x UDP
+
+	UDP - Rápido, não confiável, carro do ovo e Livestream
+
+	TCP - Voltado à conexão, handshake, integridade e ordem dos dados, aplicativo de mensagens de texto
+
+_________________________________________________
+PORTAS
+
+20:FTP (envio de arquivo)
+22:SSH
+25:SMTP (e-mail)
+53:DNS (Ip para nome e nome para IP)
+80:HTTP
+443:HTTPS
+_________________________________________________
+ROTEADORES, SWITCHES E MODEMS
+
+Modem = Modulo e demodula sinais, converte dados em um formato que possa ser transmitido de um pc para o outro e lido por outro
+
+Rotedor = ditribui internet para um ou mais dispositivos, pode fazer comunicação entre redes
+
+Switch = distribui internet para um ou mais dispositivos de uma rede e são inteligentes
+
+Quais portas usadas pelo MySQL e pelo Apache?
+	Apache = Porta 443
+	MySQL = Porta 3306
+__________________________________________________
+BROWSER, SITES, APLICATIVOS E WEBSERVER
+
+Browser = Sabe identificar várias linguagens de programação, de marcação (html) e conteúdo multimedia, existem plug-ins ou add-ons. 
+
+Site = Página da internet, diversos propósitos, podem ser feitas em diversas linguagens
+
+Aplicativo = Software que é executado no navegador
+
+E-commerce = Comércio eletrônico, compra e venda com sistema de pagamento
+
+Web-server = Estático (servidor físico) e o dinâmico (softwares que estão no servidor físico)
+
+Dinamico - arquivos (file server), aplicações (application server), banco de dados (database)
+
+Web-service - Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis (Correios, Governo)
+__________________________________________________
+STACKS
+
+Stacks = Pilhas de tecnologia, softwares necessários e suficientes para executar um aplicativo, linguagens de programação, ambientes e ferramentas de interação com app/sw, capacidade e limitação de performance, pontos fortes e fracos do app/sw.
+
+Front-end = parte da frente (site, software, aplicativo, web service), interface (UI e UX), lógica de programação (HTML, CSS, jQuery, PHP)
+
+Back-end = parte trás, servidores, banco de dados, meio campo entre interface e bancos de dados, regra de negócios, validações, MySQL, Oracle, Java, Node.js
+
+Full stack = sabe trabalhar em todas as camadas das tecnologias de desenvolvimento/execução de um app/sw
+___________________________________________________________
+LPs E TERMOS
+
+Principais linguagens = HTML, CSS, JavaScript, PHP, .NET, ASP, Java, Ruby (on Rails), Python, C e C++
+
+Termos comuns
+
+404 = mensagem de erro quando a página não existe
+ALT = texto quando deixa o mouse em cima da imagem
+API = executa outras funções dentro do programa
+Bootstrap = frameworks mais utilizados hoje em dia
+Breakpoints = pontos chaves dentro de uma tela ou pontos de paradas dentro da linguagem
+Controle de versão = softwares que controlam versões do seu código
+Debug = Processo de procurar problema no programa
+Deploy = Pacote enviado para publicação de parte do software
+Design adaptativo/responsivo = Site que se adapta em qualquer tipo de proporção
+DPI = Proporção de pontos na tela
+Favicon = figura que representa imagem do site 
+Meta tags = tags com funções pré editadas
+MVC = arquitetura que separa mobile, view e construção
+SSL = Camada de segurança
+UI = Cara do seu programa
+UX = Como usuario lida com seu programa
+WYSIWYG = O que voce vê, é o que voce recebe
+
+
+
+	
+
+
+

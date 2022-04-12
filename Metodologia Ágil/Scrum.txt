@@ -1,0 +1,11 @@
+O que é o scrum?
+
+O Scrum é uma estrutura que ajuda as equipes a trabalharem juntas. Semelhante a uma equipe de rugby (de onde vem o nome) treinando para o grande jogo, o Scrum estimula as equipes a aprenderem com as experiências, a se organizarem enquanto resolvem um problema e a refletirem sobre os êxitos e fracassos para melhorarem sempre.
+
+Embora o Scrum sobre o qual estou falando seja mais usado pelas equipes de desenvolvimento de software, os princípios e as lições dessa estrutura podem ser aplicados a todos os tipos de trabalhos em equipe. Esse é um dos motivos de o Scrum ser tão popular. Muitas vezes considerado uma estrutura de gestão de projetos de agilidade, o Scrum descreve um conjunto de reuniões, ferramentas e cargos que atuam juntos para ajudar as equipes a organizarem e gerenciarem o trabalho.
+
+O que são sprints?
+Um sprint é um período curto e fixo em que uma equipe scrum trabalha para concluir uma quantidade definida de trabalho. Os sprints estão no cerne das metodologias scrum e ágil, e acertar neles vai ajudar sua equipe ágil a fornecer produtos melhores com menos dores de cabeça.
+
+O que são os três papéis do scrum?
+O Scrum tem três papéis: proprietário do produto, mestre do Scrum e membros da equipe de desenvolvimento. Embora esses papéis sejam bastante claros, o que fazer com os cargos já existentes pode ser um pouco confuso. Muitas equipes perguntam se precisam mudar os cargos quando estão adotando o Scrum. 
