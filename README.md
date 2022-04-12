@@ -1,2 +1,4 @@
 # Repositório do Desafio sobre Git/Github da Dio
-Desafio de Projeto sobre Git/GitHub
+
+
+Neste respositório estão listadas minhas experiências deste Desafio !!!
